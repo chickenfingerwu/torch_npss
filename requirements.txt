@@ -3,6 +3,8 @@ torch
 librosa
 matplotlib
 pysptk
-tensorflow 
+tensorflow==1.14
 tqdm
 pyworld
+webrtcvad
+pydub
